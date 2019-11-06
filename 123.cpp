@@ -26,6 +26,6 @@ int main()
 //        for (i = index-1; i>=0; i--) //in ra cac tu theo thu tu dao nguoc
 //                printf ("%s ", b[i]);
 //        //printf ("\n");
-        
+        getch();
         return 0;
     }
